@@ -1,0 +1,15 @@
+[project]
+name = "inventory-cli"
+version = "0.1.0"
+description = "Ledger-based inventory management CLI"
+requires-python = ">=3.12"
+
+dependencies = [
+    "typer>=0.12",
+    "rich>=13.7",
+    "pydantic-settings>=2.0",
+    "psycopg[binary]>3.1",
+]
+
+[project.scripts]
+inv = "inv.__main__:main"

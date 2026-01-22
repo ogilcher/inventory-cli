@@ -1,0 +1,15 @@
+LICENSE
+pyproject.toml
+src/inv/__init__.py
+src/inv/__main__.py
+src/inv/cli/__init__.py
+src/inv/cli/app.py
+src/inv/cli/item_cmd.py
+src/inv/cli/report_cmd.py
+src/inv/cli/stock_cmd.py
+src/inventory_cli.egg-info/PKG-INFO
+src/inventory_cli.egg-info/SOURCES.txt
+src/inventory_cli.egg-info/dependency_links.txt
+src/inventory_cli.egg-info/entry_points.txt
+src/inventory_cli.egg-info/requires.txt
+src/inventory_cli.egg-info/top_level.txt
